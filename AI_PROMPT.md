@@ -15,6 +15,6 @@ I want to demonstrate professional engineering standards with a clean, productio
 4. Explain step-by-step how to run the console app and execute the tests using the VS Code terminal.
 
 **Constraints:**
-- Use .NET 8.
+- Use .NET 10.
 - Do not write the implementation of the `OldPhonePad` method; I will do that.
 - Focus on the project configuration and developer experience."
