@@ -26,3 +26,8 @@ To run the console application and see the decoder in action:
 
 ```bash
 dotnet run --project src/IronPhonePad.Console
+```
+
+## Developer
+* Sankalp S. Indish
+* LinkedIn: https://www.linkedin.com/in/sankalp-indish/
