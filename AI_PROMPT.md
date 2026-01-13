@@ -6,7 +6,7 @@
 "Act as a Senior .NET Architect. I am starting a C# technical assessment where I need to implement a 'Old Phone Pad' decoder.
 
 **My Goal:**
-I want to demonstrate professional engineering standards with a clean, production-ready solution structure. I will write the actual C# logic for the decoder myself, but I need your help setting up the environment.
+I want to demonstrate professional engineering standards with a clean, production-ready solution structure. **I will write the actual C# logic for the decoder myself**, but I need your help setting up the environment.
 
 **Request:**
 1. Propose a robust project structure (Solution file, Core Class Library, Console Runner, and NUnit Test Project).
