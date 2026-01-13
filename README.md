@@ -49,6 +49,14 @@ To run the console application and see the decoder in action:
 dotnet run --project src/IronPhonePad.Console
 ```
 
+## AI Usage Declaration
+
+As requested in the submission instructions, AI tools were used to assist in **project scaffolding, CI/CD configuration, and documentation structure**. The core problem-solving logic was implemented manually.
+
+* **AI Tool:** OpenAI ChatGPT (GPT-4o)
+* **Prompt:** Requested a production-ready .NET 8 solution structure, CLI setup commands, and GitHub Actions workflow configuration.
+* **Full Prompt Link:** [Link to Prompt](AI_PROMPT.md)
+
 ## Developer
 * Sankalp S. Indish
 * LinkedIn: https://www.linkedin.com/in/sankalp-indish/
