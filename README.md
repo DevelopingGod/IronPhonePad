@@ -19,7 +19,7 @@ The solution is organized into three projects:
 ## Getting Started
 
 ### Prerequisites
-* .NET 8.0 SDK
+* .NET 10.0 SDK
 
 ### How to Run (Manual Test)
 To run the console application and see the decoder in action:
