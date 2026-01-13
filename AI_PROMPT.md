@@ -1,6 +1,6 @@
 # AI Prompt Used
 
-**Tool:** OpenAI ChatGPT (GPT-4o) / Anthropic Claude 3.5 Sonnet
+**Tool:** OpenAI ChatGPT (GPT-4o) / Gemini
 
 **Prompt:**
 "Act as a Senior .NET Architect. I am starting a C# technical assessment where I need to implement a 'Old Phone Pad' decoder.
