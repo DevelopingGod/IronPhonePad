@@ -16,6 +16,27 @@ The solution is organized into three projects:
 * **src/IronPhonePad.Console**: A simple console runner for manual testing.
 * **tests/IronPhonePad.Tests**: Automated NUnit tests covering edge cases.
 
+```
+IronPhonePad/                  # Root Solution Folder
+├── .github/                   # CI/CD workflows
+│   └── workflows/
+│       └── dotnet.yml         # GitHub Actions configuration
+├── src/                       # Source code
+│   ├── IronPhonePad.Core/     # Class Library (The Logic)
+│   │   ├── PhoneKeypad.cs     # The OldPhonePad method
+│   │   └── IronPhonePad.Core.csproj
+│   └── IronPhonePad.Console/  # Console App (For manual testing)
+│       ├── Program.cs         # Calls OldPhonePad for demo
+│       └── IronPhonePad.Console.csproj
+├── tests/                     # Automated Tests
+│   └── IronPhonePad.Tests/
+│       ├── PhoneKeypadTests.cs
+│       └── IronPhonePad.Tests.csproj
+├── .editorconfig              # Code style enforcement
+├── .gitignore                 # Standard Visual Studio gitignore
+├── IronPhonePad.sln           # Solution file linking projects
+└── README.md                  # Documentation
+```
 ## Getting Started
 
 ### Prerequisites
