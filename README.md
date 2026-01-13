@@ -53,7 +53,7 @@ dotnet run --project src/IronPhonePad.Console
 
 As requested in the submission instructions, AI tools were used to assist in **project scaffolding, CI/CD configuration, and documentation structure**. The core problem-solving logic was implemented manually.
 
-* **AI Tool:** OpenAI ChatGPT (GPT-4o)
+* **AI Tool:** OpenAI Gemini
 * **Prompt:** Requested a production-ready .NET 8 solution structure, CLI setup commands, and GitHub Actions workflow configuration.
 * **Full Prompt Link:** [Link to Prompt](AI_PROMPT.md)
 
